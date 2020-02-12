@@ -6,4 +6,4 @@ A repository a kurzushoz tartozó előadást segítő jegyzetfüzeteket, gyakorl
 <br>
 
 + Előadó: Fekete Imre
-+ Gyakorlatvezetők: Fekete Imre, Pecsora Sándor, Szabó Marianna
++ Gyakorlatvezetők: Fekete Imre, Pecsora Sándor, Szabó Marianna, Noszály Csaba
