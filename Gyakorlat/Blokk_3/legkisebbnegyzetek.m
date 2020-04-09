@@ -13,21 +13,17 @@ function [x,Jnorma]=legkisebbnegyzetek(t,f,n)
 % f           t-hez tartozó értékek
 % n           a közelítõ módszer rendje
 
-%% Elõkészületek 
 
-e=ones(max(size(t)),1);
-A(:,1)=e;
-A(:,2)=t';
-for i=3:n+1
-    A(:,i)=A(:,i-1).*t';
+%% Gauss-fele normalegyenletben az A eh.mtx.
+A(:,1)=ones(length(t),1);
+for j=2:n+1
+    A(:,j)=A(:,j-1).*t';
 end
-ATranA=(A'*A);
-ATranf=(A'*f');
-x=(A'*A)\(A'*f');
-J=A*x-f';
-Jnorma=norm(J,2)^2;
 
-%% Biztonsági összevetés a Matlab beépített függvényével
-%MatlabPolyfit=rot90(polyfit(t,f,n)',2);
+%% Gauss-fele normalegyenlet mo-sa
+x = (A'*A)\(A'*f');
+
+%% Maradekvektor
+Jnorma = norm(A*x-f',2)^2;
 
 
