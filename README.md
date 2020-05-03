@@ -9,6 +9,7 @@ A repository a kurzushoz tartozó előadást segítő jegyzetfüzeteket, gyakorl
 
 <br>
 <br>
+
 Összeállította: Fekete Imre (Alkalmazott Analízis és Számításmatematikai Tanszék, ELTE)
 <br>
 
