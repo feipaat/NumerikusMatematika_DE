@@ -10,7 +10,7 @@ A repository a kurzushoz tartozó előadást segítő jegyzetfüzeteket, gyakorl
 <br>
 <br>
 
-## Összeállította: Fekete Imre (Alkalmazott Analízis és Számításmatematikai Tanszék, ELTE)
+#### Összeállította: Fekete Imre (Alkalmazott Analízis és Számításmatematikai Tanszék, ELTE)
 <br>
 
 A feladatok és a tanmenet megírása az eredeti 2019/2020 tavaszi félévben tartott kurzus. A projekt az NTP-NFTÖ-19-B-0026 támogatásával készült.
