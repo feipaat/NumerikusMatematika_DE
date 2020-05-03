@@ -10,14 +10,14 @@ A repository a kurzushoz tartozó előadást segítő jegyzetfüzeteket, gyakorl
 <br>
 <br>
 
-Összeállította: Fekete Imre (Alkalmazott Analízis és Számításmatematikai Tanszék, ELTE)
+## Összeállította: Fekete Imre (Alkalmazott Analízis és Számításmatematikai Tanszék, ELTE)
 <br>
 
 A feladatok és a tanmenet megírása az eredeti 2019/2020 tavaszi félévben tartott kurzus. A projekt az NTP-NFTÖ-19-B-0026 támogatásával készült.
 
 
-A Jupyter notebookokat az alábbi módon futtathatod:
-+ lokálisan a számítógépeden/laptopodon
+A Jupyter notebookokat az alábbi módon futtatható:
++ lokálisan a számítógépen/laptopon
 (http://jupyter.org/install.html):
   1) Anaconda telepítése (Jupyter és Python, OS: Windows, Linux vagy MacOS)
   2) MATLAB és/vagy Octave megléte vagy telepítése
